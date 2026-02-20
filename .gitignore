@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data artifacts
+data/
+*.duckdb
+*.parquet
+*.geojson
+*.csv
+*.png
+*.json
+
+# Temp folders
+tmp*/
